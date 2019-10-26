@@ -1,0 +1,4 @@
+move pid requests to individual functions
+make it possible to selectively update certain pids
+datalog will update all
+lcd will update only pids shown on lcd
